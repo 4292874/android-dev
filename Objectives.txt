@@ -1,0 +1,1 @@
+We need to develope an app which can edit videos which are either from local device or from camera.
